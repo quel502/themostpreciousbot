@@ -1,7 +1,7 @@
 // Copyright (c) Microsoft Corporation. All rights reserved.
 // Licensed under the MIT License.
 
-package com.themostpreciousbot.echo;
+package echobothitss;
 
 import com.codepoetics.protonpack.collectors.CompletableFutures;
 import com.microsoft.bot.builder.ActivityHandler;
